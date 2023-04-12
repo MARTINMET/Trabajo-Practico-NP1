@@ -8,7 +8,7 @@ public static class MovieService{
     static MovieService(){
         Movies = new List<Movie>
         {
-            new Movie { Name = "Star Wars", Code="STW", Category="Sci fi", Minutes=110, Review="⭐⭐⭐⭐"},
+            new Movie { Name = "Star Wars New Hope", Code="STW", Category="Sci fi", Minutes=110, Review="⭐⭐⭐⭐"},
             new Movie { Name = "Avatar", Code="AVT", Category="Sci fi", Minutes=500, Review="⭐⭐"},
             new Movie { Name = "Hannibal", Code="HNL", Category="Terror", Minutes=110, Review="⭐⭐"}
         };
